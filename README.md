@@ -1,8 +1,7 @@
 # Mini-AB-LGX-Lite with integrated Zero-Click probe housing
 A combination of the Mini Afterburner cowling for mounting the Bondtech LGX-Lite on, and the Zero-Click probe holder
 
-![image](https://user-images.githubusercontent.com/115890263/198734195-fb197714-33fb-403f-9920-02a0df7b1fe6.png)
-
+![image](https://user-images.githubusercontent.com/115890263/198735514-8688a539-c4eb-4eee-a540-6dcf2be93137.png)
 
 
 License and Credits
