@@ -1,5 +1,5 @@
-# Mini-AB-LGX-Lite-Zero-Click
-Mini Afterburner for mounting on the Bondtech LGX-Lite, with built in Zero-Click probe holder
+# Mini-AB-LGX-Lite with integrated Zero-Click probe housing
+A combination of the Mini Afterburner for mounting on the Bondtech LGX-Lite, and the Zero-Click probe holder
 
 
 
