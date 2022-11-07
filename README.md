@@ -3,6 +3,8 @@ A combination of the Mini Afterburner cowling for mounting the Bondtech LGX-Lite
 
 ![image](https://user-images.githubusercontent.com/115890263/198735514-8688a539-c4eb-4eee-a540-6dcf2be93137.png)
 
+Sized for 6mm x 2.7mm magnets.
+
 
 License and Credits
 
